@@ -1,6 +1,5 @@
 # LearningReact</br>
 
-Learn React</br>
 Steps to create React app:</br>
 
 1.npm install create-react-app 'appName'</br>
