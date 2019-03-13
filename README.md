@@ -2,5 +2,7 @@
 
 Steps to create React app:</br>
 
-1.npm install create-react-app 'appName'</br>
-2.Browse to src/app.js and Modify it to start working in React</br>
+1.npm install create-react-app -g </br>
+2.create-react-app 'appName'</br>
+
+After this you will get a dummy project with Basic setup. There are different branches each having some learnings from POC.
