@@ -1,10 +1,12 @@
 import React from 'react';
+import './Person.css';
 
 const person = (props) => {
-    return <div>
+    return (
+        <div className={"Person"}>
         <p>My name is {props.name} I'm {props.age}!</p>
         <p>{props.children}</p>
-    </div>
+    </div>)
 }
 
 export default person;
